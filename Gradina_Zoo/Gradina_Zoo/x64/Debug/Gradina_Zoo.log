@@ -1,0 +1,5 @@
+﻿  Gradina_Zoo.cpp
+C:\Users\user\Desktop\P.O.O-Programare Orientata Obiect\Gradina_Zoo\Gradina_Zoo.cpp(81,38): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\user\Desktop\P.O.O-Programare Orientata Obiect\Gradina_Zoo\Gradina_Zoo.cpp(82,62): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\user\Desktop\P.O.O-Programare Orientata Obiect\Gradina_Zoo\Gradina_Zoo.cpp(82,42): warning C4305: 'argument': truncation from 'double' to 'float'
+  Gradina_Zoo.vcxproj -> C:\Users\user\Desktop\P.O.O-Programare Orientata Obiect\Gradina_Zoo\x64\Debug\Gradina_Zoo.exe
